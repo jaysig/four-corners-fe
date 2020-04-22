@@ -1,0 +1,57 @@
+body {
+  font-family: Poppins, sans-serif;
+  text-align: center;
+  font-size: 15px;
+  background-color: #fafafa;
+}
+
+h1 {
+  margin: 0.4em 0;
+}
+
+p {
+  color: #a3a5ae;
+  font-weight: 200;
+}
+
+.card {
+  box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  position: relative;
+  transition: 0.3s;
+  text-align: left;
+  width: 25%;
+}
+
+.card-image {
+  position: absolute;
+  right: 10px;
+}
+
+.powered {
+  font-weight: 600;
+  color: #4c4e61;
+}
+
+.reliable {
+  font-weight: 200;
+  color: #a3a5ae;
+}
+
+.teal-line {
+  height: 3px;
+  margin: 0;
+  border: none;
+  background-color: #45d3d3;
+}
+
+.title-area {
+  margin: 6% auto 5% auto;
+}
+
+.title-content {
+  margin: 0 auto;
+  width: 33%;
+}
+
+/*# sourceMappingURL=styles.css.map */
